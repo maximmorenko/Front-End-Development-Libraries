@@ -13,3 +13,9 @@ Bootstrap автоматично визначить ширину екрану і
 
 Можна внести Bootstrap до будь-якого додатка, додавши нижчезазначений код на початку вашого HTML:
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"/>
+===========================================================================================================
+jQuery
+
+jQuery — одна з найпопулярніших у світі бібліотек JavaScript.
+
+До її запуску у 2006 році, кожний браузер використовував JavaScript по своєму. jQuery спростила роботу з JavaScript для користувачів, а також забезпечила кросбраузерність створених кодів.
